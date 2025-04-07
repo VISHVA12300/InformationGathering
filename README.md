@@ -28,7 +28,7 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
-![serverside](/Ex02/InformationGathering/img/Whois.png)
+![clientside](/Ex02/InformationGathering/img/Whois.png)
 
 ### Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
@@ -47,6 +47,7 @@ get further detail by using ip2location.com website.
 ### History of the website:
 ## Output:
 https://web.archive.org/
+
 ![serverside](/Ex02/InformationGathering/img/webarchive.png)
 
 ### Webserver Fingerprinting:
